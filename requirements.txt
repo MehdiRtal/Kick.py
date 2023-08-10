@@ -1,0 +1,3 @@
+tls-client
+websockets
+2captcha-python
